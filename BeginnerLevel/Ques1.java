@@ -7,6 +7,7 @@ import java.util.List;
 //1. Convert List<String> to Uppercase
 public class Ques1 {
 
+
     public static void main(String[] args) {
 
         List<String> lowerList = new ArrayList<>(Arrays.asList("mohan", "sohan", "rohan"));
